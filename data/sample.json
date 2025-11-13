@@ -1,0 +1,42 @@
+[
+  {
+    "id": "662267976984297473",
+    "name": "Midjourney",
+    "description": "The official server for Midjourney, a text-to-image AI where your imagination is the only limit.",
+    "icon": "39128f6c9fc33f4c95a27d4c601ad7db",
+    "splash": "4798759e115d2500fef16347d578729a",
+    "banner": "63249e6867f276efc07d32793b7b3b5a",
+    "approximate_presence_count": 1353819,
+    "approximate_member_count": 21165793,
+    "premium_subscription_count": 569,
+    "preferred_locale": "en-US",
+    "auto_removed": false,
+    "discovery_splash": "4798759e115d2500fef16347d578729a",
+    "primary_category_id": 5,
+    "vanity_url_code": "midjourney",
+    "is_published": true,
+    "keywords": ["AI", "artificial intelligence", "art", "creativity", "future"],
+    "features": [
+      "COMMUNITY",
+      "DISCOVERABLE",
+      "ENABLED_DISCOVERABLE_BEFORE",
+      "PREVIEW_ENABLED",
+      "VERIFIED",
+      "WELCOME_SCREEN_ENABLED"
+    ],
+    "categories": [
+      { "id": 3, "is_primary": true, "name": "Entertainment", "name_localizations": {} },
+      { "id": 4, "is_primary": true, "name": "Creative Arts", "name_localizations": {} },
+      { "id": 38, "is_primary": false, "name": "Collaboration", "name_localizations": {} },
+      { "id": 40, "is_primary": false, "name": "Wiki & Guide", "name_localizations": {} },
+      { "id": 5, "is_primary": true, "name": "Science & Tech", "name_localizations": {} }
+    ],
+    "primary_category": {
+      "id": 5,
+      "is_primary": true,
+      "name": "Science & Tech",
+      "name_localizations": {}
+    },
+    "objectID": "662267976984297473"
+  }
+]
