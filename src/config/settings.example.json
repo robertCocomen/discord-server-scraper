@@ -1,0 +1,11 @@
+{
+  "max_results_per_keyword": 300,
+  "results_per_page": 100,
+  "output_path": "data/sample.json",
+  "category_id": null,
+  "request": {
+    "timeout": 10,
+    "retries": 3,
+    "backoff_factor": 0.5
+  }
+}
